@@ -1,0 +1,84 @@
+﻿/* =============================================================== */
+/* Footer */
+.footer {
+    width: 100%;
+    background-color: #fff;
+    padding: 50px;
+    text-align: center;
+    /* position: fixed;
+    bottom: 0; */
+}
+
+.shopButtons {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    /* width: 400px; */
+    background-color: var(--primary-color);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 80px 150px;
+}
+
+    .button a {
+        /* margin: 0 auto; */
+        padding: 80px 160px;
+        color: #333;
+        display: flex;
+        flex-direction: column;
+    }
+
+.text1 {
+    font-size: 2rem;
+}
+
+.text2 {
+    font-size: 3rem;
+    margin-top: 15px;
+}
+
+/* ============================================================ */
+.footer__contact {
+    margin-top: 20px;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.social-icon {
+    padding: 0 20px;
+}
+
+
+    .social-icon a {
+        color: var(--primary-color);
+        font-size: 2rem;
+    }
+
+        .social-icon a:hover {
+            color: rgba(244, 167, 186, 0.6);
+        }
+
+.footer__contact span {
+    margin-bottom: 10px;
+}
+
+.option {
+    padding: 0 8px;
+}
+
+    .option + .option {
+        border-left: 1px solid #333;
+    }
+
+@media only screen and (max-width: 768px) {
+    .button {
+        display: none;
+    }
+}

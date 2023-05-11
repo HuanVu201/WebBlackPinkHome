@@ -1,0 +1,201 @@
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\BlackPinkHome.dll.config
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\BlackPinkHome.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\BlackPinkHome.pdb
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\csc.exe
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\csc.exe.config
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\csc.rsp
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\csi.exe
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\csi.exe.config
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\csi.rsp
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.Managed.Core.targets
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.AppContext.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Collections.Immutable.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Console.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Globalization.Calendars.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.IO.Compression.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.IO.FileSystem.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Net.Http.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Net.Sockets.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Reflection.Metadata.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.ValueTuple.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Xml.XmlDocument.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Xml.XPath.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\vbc.exe
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\vbc.exe.config
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\vbc.rsp
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\VBCSCompiler.exe
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\roslyn\VBCSCompiler.exe.config
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.csproj.AssemblyReference.cache
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.csproj.CoreCompileInputs.cache
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.csproj.CopyComplete
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.pdb
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\Newtonsoft.Json.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\System.Net.Http.Formatting.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\System.Web.Http.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\System.Web.Http.WebHost.dll
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\Newtonsoft.Json.xml
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\System.Net.Http.Formatting.xml
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\System.Web.Http.xml
+D:\StudySpace\Lập trình web\BlackPinkHome\BlackPinkHome\bin\System.Web.Http.WebHost.xml
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\BlackPinkHome.dll.config
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\BlackPinkHome.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\BlackPinkHome.pdb
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\csc.exe
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\csc.exe.config
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\csc.rsp
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\csi.exe
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\csi.exe.config
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\csi.rsp
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.AppContext.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Console.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Globalization.Calendars.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.IO.Compression.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.IO.FileSystem.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Net.Http.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Net.Sockets.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.ValueTuple.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Xml.XPath.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\vbc.exe
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\vbc.exe.config
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\vbc.rsp
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\VBCSCompiler.exe
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\Newtonsoft.Json.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\System.Net.Http.Formatting.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\System.Web.Http.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\System.Web.Http.WebHost.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\Newtonsoft.Json.xml
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\System.Net.Http.Formatting.xml
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\System.Web.Http.xml
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\System.Web.Http.WebHost.xml
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.csproj.AssemblyReference.cache
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.csproj.CoreCompileInputs.cache
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.csproj.CopyComplete
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.pdb
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\BlackPinkHome.dll.config
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\BlackPinkHome.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\BlackPinkHome.pdb
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\csc.exe
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\csc.exe.config
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\csc.rsp
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\csi.exe
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\csi.exe.config
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\csi.rsp
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.AppContext.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Console.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Globalization.Calendars.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.IO.Compression.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.IO.FileSystem.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Net.Http.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Net.Sockets.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.ValueTuple.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Xml.XPath.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\vbc.exe
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\vbc.exe.config
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\vbc.rsp
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\VBCSCompiler.exe
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\Newtonsoft.Json.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\System.Net.Http.Formatting.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\System.Web.Http.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\System.Web.Http.WebHost.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\Newtonsoft.Json.xml
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\System.Net.Http.Formatting.xml
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\System.Web.Http.xml
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\System.Web.Http.WebHost.xml
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.csproj.AssemblyReference.cache
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.csproj.CoreCompileInputs.cache
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.csproj.CopyComplete
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.dll
+D:\Workspace\BlackPinkHome\BlackPinkHome\BlackPinkHome\BlackPinkHome\obj\Debug\BlackPinkHome.pdb

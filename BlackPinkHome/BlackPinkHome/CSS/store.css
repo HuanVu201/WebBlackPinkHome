@@ -1,0 +1,129 @@
+﻿body {
+    cursor: default;
+}
+
+/* HEADER */
+.header {
+    width: 100%;
+    display: block;
+    top: 0;
+    text-align: center;
+    height: 800px;
+}
+
+.background--honn {
+    width: 100%;
+}
+
+.background--bornPink {
+    width: 60%;
+    position: relative;
+    top: -700px;
+}
+
+/* ================================================================== */
+/* Container */
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.productBlock {
+    display: grid;
+    grid-template-columns: repeat(4, 350px);
+    margin: 0 auto;
+    column-gap: 20px;
+    padding-bottom: 100px;
+}
+
+.shopStore__item {
+    width: 350px;
+    padding: 30px;
+    margin: 10px;
+    /* border: 1px solid green; */
+    position: relative;
+}
+
+    .shopStore__item:hover {
+        padding: 0px;
+        transition: 0.4s;
+    }
+
+.shopStore__item--img {
+    width: 100%;
+    object-fit: contain;
+}
+
+.shopStore__item-content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.shopStore__item--name {
+    color: #333;
+    font-size: 1.5rem;
+    font-weight: 550;
+    height: 30px;
+}
+
+.shopStore__item--price {
+    color: var(--primary-text-color);
+    margin-top: 10px;
+    font-size: 1.7rem;
+    font-weight: 550;
+}
+
+.removeProduct {
+    font-size: 1.5rem;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    /*display: none;*/
+}
+
+
+
+.addProduct {
+    margin-bottom: 100px;
+    display: flex;
+}
+
+    .addProduct a {
+        margin: 0 auto;
+        padding: 10px 20px;
+        background-color: var(--primary-color);
+        font-size: 1.8rem;
+        color: #333;
+        border-radius: 10px;
+    }
+
+        .addProduct a:hover {
+            background-color: var(--button-hover-color);
+            color: var(--white-color);
+        }
+
+
+/* RESPONSIVE */
+/* @media only screen and (min-width: 1367px){
+    
+} */
+
+@media only screen and (max-width: 1500px) {
+    .productBlock {
+        grid-template-columns: repeat(3, 350px);
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .productBlock {
+        grid-template-columns: repeat(2, 350px);
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .header {
+        height: 300px;
+    }
+}
